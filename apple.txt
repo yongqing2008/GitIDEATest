@@ -1,6 +1,6 @@
 apple
 apple
 apple  add by hotfix
-apple  orange
+apple  master orange
 apple  
 
